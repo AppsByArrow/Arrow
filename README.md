@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-   <a href="/">
+   <a href="/arrowapps.xyz ">
   <img src="web-image.png" height="25" alt="twitter logo" />
   </a>
   <a href="https://x.com/ArrowApps">
